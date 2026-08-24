@@ -16,6 +16,7 @@ The analysis focuses on:
 
 # Dataset
 The project uses a Customer Shopping Behavior dataset containing 3,900 purchase records.
+
 The dataset includes:
 • Customer ID
 • Age and Gender
@@ -46,6 +47,7 @@ Power BI	Interactive dashboard and visualization
 1. Load the Data
 
 2. Exploratory Data Analysis
+
 The dataset was explored using:
 • df.info()
 • df.describe()
