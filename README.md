@@ -2,11 +2,6 @@
 
 End-to-end Customer Shopping Behavior Analysis using **Python, PostgreSQL, and Power BI** to uncover customer spending patterns, product performance, subscription behavior, loyalty trends, and actionable business insights.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
 ---
 
 ## 📌 Overview
@@ -177,34 +172,6 @@ The Power BI dashboard provides an interactive view of customer shopping behavio
 6. **Continue Customer Acquisition** — Attract new customers while maintaining strong retention.
 
 ---
-
-## 📁 Project Structure
-
-```
-├── data/                  # Raw and cleaned datasets
-├── notebooks/              # Python notebooks (EDA, cleaning, feature engineering)
-├── sql/                    # SQL business analysis queries
-├── SS/                     # Dashboard screenshots
-│   └── DASHBOARD.png
-├── report/                 # Analysis report & PowerPoint presentation
-└── README.md
-```
-
----
-
-## 🚀 How to Reproduce
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Install dependencies
-   ```bash
-   pip install pandas sqlalchemy psycopg2
-   ```
-3. Run the Python notebooks to clean and process the data
-4. Load the cleaned data into PostgreSQL
-5. Open the Power BI file to explore the interactive dashboard
 
 ---
 
