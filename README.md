@@ -173,8 +173,3 @@ The Power BI dashboard provides an interactive view of customer shopping behavio
 
 ---
 
----
-
-## 📬 Contact
-
-If you have questions or feedback about this project, feel free to reach out or open an issue in this repository.
